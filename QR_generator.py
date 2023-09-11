@@ -1,6 +1,6 @@
 import pyqrcode, png
 from pyqrcode import QRCode
-print("Hello!")
+print("Hello User!")
 print("This program helps you to generate QR code for any given URL.")
 print("="*40)
 s = input("Enter URL to generate QR Code: ")
